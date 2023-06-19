@@ -1,4 +1,5 @@
 # Used Car Analysis using Spark SQL and Apache Zeppelin notebook
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/longnguyendata/used-car-analysis-spark-sql)
 
 ## Project Summary:
 * Analyzed sales performance of used cars in Germany and Czech Republic since 2015.
