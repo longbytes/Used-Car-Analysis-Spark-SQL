@@ -19,6 +19,6 @@ The original dataset can be downloaded on [Kaggle](https://www.kaggle.com/datase
 * Apache Spark SQL
 
 ## How to view the project
-- Click on the PDF file in this repo: `Spark SQL Analysis in Zeppelin notebook.pdf`
-- You can preview the PDF file directly on GitHub or download and read it using any PDF reader.
+- Click on the PDF file in this repo: `Spark SQL Analysis in Zeppelin notebook.pdf` or on [Google Drive](https://drive.google.com/file/d/12JP9IiPKnNr67tlbn-kRxKyC1QWrdGzQ/view?usp=sharing).
+- You can preview the PDF file directly on GitHub or Google Drive. You can also download and read the report using any PDF reader on your computer.
 - If you have any questions regarding the notebook and the analysis, please feel free to contact me.
