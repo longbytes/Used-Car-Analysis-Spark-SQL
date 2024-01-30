@@ -1,4 +1,5 @@
 # Used Car Analysis using Spark SQL and Apache Zeppelin notebook
+
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/longbytes/used-car-analysis-spark-sql)
 
 ## Project Description
