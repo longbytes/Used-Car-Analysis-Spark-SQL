@@ -1,6 +1,6 @@
 # Used Car Analysis using Spark SQL and Apache Zeppelin notebook
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/longbytes/used-car-analysis-spark-sql)
+![GitHub last commit](https://img.shields.io/github/last-commit/longnca/Used-Car-Analysis-Spark-SQL)
 
 ## Project Description
 This project aims to utilize Apache Spark SQL queries in the Zeppelin notebook for an in-depth analysis on the sales performance of used cars in Germany and the Czech Republic since 2015.
